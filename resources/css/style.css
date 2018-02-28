@@ -85,6 +85,20 @@ h2:after {
     margin-left: 15%;
 }
 
+.box p {
+    font-size: 90%;
+    line-height: 145%;
+}
+
+/* ---------- ICONS ------------- */
+
+.icon-big {
+    font-size: 350%;
+    display: block;
+    color: #e67e22;
+    margin-bottom: 10px;
+}
+
 
 /* --------- BUTTONS ------------ */
 
@@ -128,6 +142,34 @@ h2:after {
     color: white;
 }
 
+/* ---------- MEALS SECTION ----------- */
+
+.meals-showcase {
+    list-style: none;
+    width: 100%;
+}
+
+.meals-showcase li {
+    display: block;
+    float: left;  
+    width: 25%;
+}
+
+.meal-photo {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.meal-photo img {
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+}
+
+.section-meals {
+    padding: 0;
+}
 
 /* ------------- HEADER --------------- */
 
