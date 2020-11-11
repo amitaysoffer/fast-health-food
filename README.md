@@ -1,5 +1,5 @@
 # fast-health-food
 
 
-![js](/js.png) ![html](./html.png) ![css](css.png)
+<img src="js.png" width="100"> <img src="html.png" width="100"> <img src="css.png" width="100">  
 
